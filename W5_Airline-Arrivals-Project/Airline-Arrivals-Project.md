@@ -1,0 +1,1 @@
+[IPython Notebook](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/42874e88-99db-4e07-8754-c3fa1a583140/view?access_token=36c07fb8c52a090bbc88d5f60606d91956da00c8a1459e32798864d3a21c7ffe)
